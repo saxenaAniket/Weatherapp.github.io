@@ -1,0 +1,14 @@
+.inner-box{
+    background-color: white;
+    margin-bottom: 10rem;
+    margin-top: 1rem;
+    border-radius: 2rem;
+    opacity: 0.95;
+}
+.description{
+    text-transform: capitalize;
+}
+.card-header{
+    background-color: black;
+    color: white;
+}
